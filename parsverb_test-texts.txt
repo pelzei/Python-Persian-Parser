@@ -1,0 +1,18 @@
+﻿Texts that can be used to try the Parsverb tagger.
+They are all collected from Uppsala University’s Persian course:
+http://www2.lingfil.uu.se/afro/persiska/texter.html
+
+...............
+
+havā dar tābestān garm mišavad. ruz-hā derāz va šab-hā kutāh ast. āftāb mive-hā-rā zud miresānad va širin mikonad, gandom va jō dar ṣaḥrā zard mišavad. barzegar-ān gandom-rā avval derō karde xarman mikonand, ba'd mikuband va kāh-e ān-rā az gandom jodā karde kāh-rā barāye āẕuqe-ye zemestāni-ye ḥeyvān-āt be anbār mibarand. gandom-rā be āsiyā borde ārd misāzand. jō-rā ham be asb o xar midahand. murče-hā dar tābestān dāne jam' mikonand tā dar zemestān āsude bāšand. tābestān faṣl-e xubi ast. bištar-e xvorāk-e ensān va ḥeyvān dar in faṣl āmāde mišavad.
+
+---------------
+
+lākpošt-i va xarguš-i dar ṣaḥrā be ham residand, rafiq-e rāh šodand. xarguš az rāh raftan-e lākpošt be tang āmad. goft: in āheste raftan-e to mā-rā be manzel nemiresānad. lākpošt čun midānest rafiq-aš ḥeyvān-e tanbali ast goft: biā šarṭ bebandim tā kodām yek az mā be ān deraxt-i ke bālā-ye tappe ast zudtar miresim. xarguš qabul kard va goft: to boro va man ham āmadam. lākpošt be rāh oftād. xarguš be eṭminān-e tizpāyi-ye xvod mašġul-e čaridan šod. yek martabe sar-aš-rā boland kard. did nazdik ast lākpošt beresad. ān vaqt pā be davidan goẕāšt vali har če kušeš kard sud-i nabaxšid. lākpošt be deraxt reside bud va xarguš hanuz midavid.
+
+----------------
+
+do rafiq bā ham qarār goẕāštand be šekār-e xers beravand. ruz-i be ṭaraf-e jangal rahsepār šodand va bā ham migoftand: pust-e xers-rā miforušim va az qeymat-e ān čizhā-ye xub mixarim va cenin o cenān mikonim. ettefāqan be xers-e bozorg-e xvošpašm-i ke az dur miyāmad bar xvordand.yeki az tars bālā-ye deraxt-i raft va digari čun tanhā mānd va šenide bud ke xers be morde kār-i nadārad xvod-rā be mordan zad. xers āmad, u-rā bu kard va raft. haminke dur šod ān ke bālā-ye deraxt bud pāyin āmade az rafiq-aš porsid ke xers be guš-e to če goft? javāb dād do naṣiḥat kard yeki ān ke bā rafiq-e tarsu be šekār-e xers narō va digar ān ke pust-e xers-e šekār nakarde naforuš.
+
+
+
